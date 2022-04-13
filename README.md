@@ -12,14 +12,6 @@ The documentation of Vinci is in the following [Vinci documentation](https://doc
 
 A more detailed and technical description of the protocol can be found in this repository, [here](https://docsend.com/view/b8fvuknbyhjvhcfa)
 
-## Audit
-
-* Armors Lab (03/2022): [report](/audits/Armors-vinci-03-2022.pdf)
-
-## Community
-
-You can join our [Telegram](https://t.me/vinciprotocol) channel for asking questions about the protocol or talk about Vinci with other peers.
-
 ## Getting Started
 
 Run the following command to initialize the environment:
